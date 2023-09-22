@@ -1,0 +1,15 @@
+
+h1 {
+    color: red;
+}
+
+
+.milestone:hover{
+color:skyblue;
+}
+
+
+
+img.filtered-image {
+    animation: sepiaFilter 3s forwards;
+}
